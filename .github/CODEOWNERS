@@ -1,0 +1,4 @@
+# Global ownership rule: all files must be approved by @wm333300
+* @wm333300
+
+/.github/CODEOWNERS @wm333300
